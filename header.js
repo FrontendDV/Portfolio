@@ -4,6 +4,7 @@ function scrolli(){
     if(document.body.scrollTop > 500 || document.documentElement.scrollTop > 500){
         let getArrow = document.querySelector('.arrow');
         getArrow.style.display = 'block';
+        document.body.style.overflowX = 'hidden';
     }else{
         let getArrow = document.querySelector('.arrow');
         getArrow.style.display = 'none';
