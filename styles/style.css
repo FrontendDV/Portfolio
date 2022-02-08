@@ -169,7 +169,7 @@ html{
     top: 50%;
     transform: rotate(-45deg);
     background-color: #fff;
-    z-index: 99;
+    z-index: 200;
 }
 .line-3Toggle{
     top: 100%;
