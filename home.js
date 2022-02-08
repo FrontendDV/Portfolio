@@ -1,4 +1,4 @@
-if(document.location.pathname === 'Portfolio/index.html'){
+if(document.location.pathname === 'https://frontenddv.github.io/Portfolio/index.html'){
     let activeElement = document.getElementsByClassName('nav-a')[0]
     activeElement.setAttribute('class','nav-a-active')
 }
