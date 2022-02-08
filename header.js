@@ -119,7 +119,7 @@ crtHamburgerIconLine3.setAttribute('class','line-3');
 // create hamburger menu animation on click
 crtHamburgerDiv.addEventListener('click',hamburgerMenuAnimation);
 function hamburgerMenuAnimation(){
-    document.body.style.overflowY= 'hidden';
+    document.body.classList.toggle('body-overflowY')
     crtHiddenNavBar.classList.toggle('navToggle');
     // center line
     crtHamburgerIconLine2.classList.toggle('line-2Toggle');

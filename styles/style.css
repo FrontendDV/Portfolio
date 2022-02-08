@@ -9,6 +9,9 @@ body{
 html{
     scroll-behavior: smooth;
 }
+.body-overflowY{
+    overflow-y: hidden;
+}
 /* Scroll to top arrow */
 .arrow{
     font-size: 50px;
