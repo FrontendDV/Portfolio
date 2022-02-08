@@ -1,4 +1,4 @@
-if(document.location.pathname === '/projects.html'){
+if(document.location.pathname === '/Portfolio/projects.html'){
     let activeElement = document.getElementsByClassName('nav-a')[1]
     activeElement.setAttribute('class','nav-a-active')
 }
