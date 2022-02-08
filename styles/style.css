@@ -128,14 +128,14 @@ html{
     cursor: pointer;
 }
 .line-1{
-    width: 18px;
+    width: 15px;
     height: 4px;
     background-color: #333;
     border-radius: 5px;
     transition: 0.3s all ease;
     position: absolute;
     top: 0%;
-    left: 0%;
+    left: 4%;
 }
 .line-2{
     width: 30px;
@@ -148,19 +148,19 @@ html{
     left: 0%;
 }
 .line-3{
-    width: 20px;
+    width: 15px;
     height: 4px;
     background-color: #333;
     border-radius: 5px;
     transition: 0.3s all ease;
     position: absolute;
     top: 100%;
-    right: 40%;
+    right: 45%;
 }
 
 /* toggle classes */
 .line-1Toggle{
-    top: 40%;
+    top: 30%;
     transform: rotate(45deg);
     background-color: #fff;
     z-index: 100;
@@ -172,7 +172,7 @@ html{
     z-index: 200;
 }
 .line-3Toggle{
-    top: 100%;
+    top: 80%;
     transform: rotate(45deg);
     background-color: #fff;
     z-index: 99;
