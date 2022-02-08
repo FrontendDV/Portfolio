@@ -10,7 +10,10 @@ function scrolli(){
         getArrow.style.display = 'none';
     }
 }
-
+if(document.location.pathname === '/Portfolio'){
+    let activeElement = document.getElementsByClassName('nav-a')[0]
+    activeElement.setAttribute('class','nav-a-active')
+}
 // ==============================================    HEADER   ============================
 // create header 
 let crtHeader = document.createElement('header');
