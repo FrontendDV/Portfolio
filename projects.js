@@ -43,56 +43,56 @@ crtProjectsDiv.setAttribute('class','project container');
 let projectObject = [
     {
         title : 'GT SURVEY',
-        subtitle : "Project | Web Design , Coding",
+        subtitle : "Web Design , Coding",
         description : `This website create with HTML, CSS, Bootstrap, Js, jQuery.Design created in Figma by me. The website is a Responsive on Desktop , Tablet and also Mobile `,
         image : 'img/MacBook, iPad, iPhone.png',
         background : "#008c51"
     },
     {
         title : 'furni.shop',
-        subtitle : "Portfolio Project | Coding",
+        subtitle : " Coding",
         description : `This website create with HTML, CSS, Js, jQuery, JSON,AJAX, GSAP.The website is a Responsive on Desktop ,Tablet and also Mobile`,
         image : 'img/MacBook Pro & iPhone 12 Pro.png',
         background : "#60a478"
     },
     {
         title : 'SkillZ',
-        subtitle : "SCSA Final Project | Web Design , Coding",
+        subtitle : "Web Design , Coding",
         description :`This is a SCSA Final Project Website .This website create with HTML, CSS,Js, jQuery, JSON, AJAX.The website is a Responsive on Desktop , Tablet and also Mobile`,
         image : 'img/MacBook Pro 16 (2).png',
         background : "#2373a4"
     },
     {
         title : 'JS FORM VALIDATION',
-        subtitle : "Small Portfolio Project | Coding (Native Js)",
+        subtitle : "Coding (Native Js)",
         description :`This is a small project which makes form validaton.This website create with HTML, CSS, Js.The website is a Responsive on Desktop , Tablet and also Mobile`,
         image : 'img/iPhone 13.png',
         background : "tomato"
     },
     {
         title : 'JS CALCULATOR',
-        subtitle : "Small Portfolio Project | Coding (Native Js)",
+        subtitle : "Coding (Native Js)",
         description :`This is a small project which makes easy math methods.This website create with HTML, CSS, Js.The website is a Responsive on Desktop , Tablet and also Mobile`,
         image : 'img/iPad Mini.png',
         background : "#4f4f4f"
     },
     {
         title : 'JS TODO List',
-        subtitle : "Small Portfolio Project | Coding (Native Js)",
+        subtitle : "Coding (Native Js)",
         description :`This is a small project , you can add your todo list with it.This website create with HTML, CSS, Js.The website is a Responsive on Desktop , Tablet and also Mobile`,
         image : 'img/todolist.png',
         background : "#fda085"
     },
     {
         title : 'Weather App',
-        subtitle : "Small Portfolio Project | Coding (Native Js)",
+        subtitle : "Coding (Native Js)",
         description :`This is a small project , you can check weather more than 200,000 countries with it.This website create with HTML, CSS, Js.The website is a Responsive on Desktop , Tablet and also Mobile`,
         image : 'img/weatherApp.png',
         background : "#7C99AC"
     },
     {
         title : 'YouTube to MP3 Converter',
-        subtitle : "Small Portfolio Project | Coding (Native Js)",
+        subtitle : "Coding (Native Js)",
         description :`This is a small project , you can convert youtube video with id and download it.This website create with HTML, CSS, Js.The website is a Responsive on Desktop , Tablet and also Mobile`,
         image : 'img/youtubeconvert.png',
         background : "#FF0000"
