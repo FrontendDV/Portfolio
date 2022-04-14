@@ -68,7 +68,7 @@ let techSkillsObject = [
     },
      {
         image : 'img/icons8-angularjs-48.png',
-        title : 'ANGULAR(COMING SOON)',
+        title : 'REACT(COMING SOON)',
         description : `I am learning Angular at this stage on my own with the help of Udem and Geolab online courses and will soon be able to use it for real projects`
     }
     
