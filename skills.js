@@ -48,7 +48,7 @@ let techSkillsObject = [
     },
      {
         image : 'img/icons8-bootstrap-48.png',
-        title : 'Bootstrap(Basics)',
+        title : 'Bootstrap',
         description : `I studied it from Geolab youtube Course.Know Basics`
     },
      {
@@ -68,7 +68,7 @@ let techSkillsObject = [
     },
      {
         image : 'img/icons8-react-native-48.png',
-        title : 'REACT(COMING SOON)',
+        title : 'REACT',
         description : `I am learning Angular at this stage on my own with the help of Udem and Geolab online courses and will soon be able to use it for real projects`
     }
     
