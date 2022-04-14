@@ -67,7 +67,7 @@ let techSkillsObject = [
         description : `Graduated 'Frontend Developer : Web Design' course at Wayup, Where I learned HTML and CSS.`
     },
      {
-        image : 'img/icons8-angularjs-48.png',
+        image : 'img/icons8-react-native-48.png',
         title : 'REACT(COMING SOON)',
         description : `I am learning Angular at this stage on my own with the help of Udem and Geolab online courses and will soon be able to use it for real projects`
     }
