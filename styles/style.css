@@ -1195,6 +1195,12 @@ html{
     .project-box-subtitle{
         font-size: 11px;
     }
+    .project-box-h1{
+        font-size: 14px;
+    }
+    .project-box-btn:hover{
+        transform: translateX(0px);
+    }
 }
 /* 
 @media (min-width : 1920px){
