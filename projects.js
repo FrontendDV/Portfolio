@@ -99,7 +99,7 @@ let projectObject = [
     },
     {
         title : 'Pocket',
-        subtitle : "Coding (Native Js)",
+        subtitle : "Front End - HTML,CSS,JavaScript",
         description :`This is a small project , This is a cost calculation app.This website create with HTML, CSS, Js.The website is a Responsive on Desktop , Tablet and also Mobile`,
         image : 'img/MyPocketMockup.png',
         background : "#019267"
