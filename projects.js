@@ -103,13 +103,6 @@ let projectObject = [
         description :`This is a small project , This is a cost calculation app.This website create with HTML, CSS, Js.The website is a Responsive on Desktop , Tablet and also Mobile`,
         image : 'img/MyPocketMockup.png',
         background : "#019267"
-    },
-    {
-        title : `COMING SOON | Portfolio Website on `,
-        subtitle : "",
-        description :``,
-        image : 'img/mirage-soon.png',
-        background : "#83677b"
     }
 ]
 // create two projects show box
